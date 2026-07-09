@@ -63,6 +63,6 @@ I'm a full-stack developer who builds web applications with Next.js, React, Node
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=md-siam-kazi-dev&icon=6&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=md-siam-kazi-dev&label=Profile+Views&color=1F3A3A&style=for-the-badge)](https://visitcount.itsvg.in)
 
 </div>
